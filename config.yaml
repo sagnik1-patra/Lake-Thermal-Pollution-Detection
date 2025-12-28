@@ -1,0 +1,7 @@
+epochs: 50
+features:
+- surface_temp
+- water_depth
+- industry_distance
+optimizer: PSO
+target: thermal_pollution_index
