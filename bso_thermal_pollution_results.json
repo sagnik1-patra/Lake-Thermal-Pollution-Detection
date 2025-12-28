@@ -1,0 +1,7 @@
+{
+    "rmse": 0.9986475027186027,
+    "r2_score": 0.9149014747288927,
+    "best_filters": 64,
+    "best_kernel": 3,
+    "model": "Hybrid BA + PSO (BSO)"
+}
