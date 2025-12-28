@@ -1,0 +1,8 @@
+{
+    "rmse": 1.0554240798132382,
+    "r2_score": 0.9049501161809184,
+    "best_filters": 51,
+    "best_kernel_size": 2,
+    "model": "CNN + PSO",
+    "region": "West Bengal"
+}

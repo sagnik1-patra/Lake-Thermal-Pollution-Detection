@@ -1,0 +1,7 @@
+{
+    "rmse": 1.0066020208335076,
+    "r2_score": 0.9135404065191486,
+    "best_filters": 26,
+    "best_kernel": 3,
+    "model": "Hybrid AIS + CSA"
+}

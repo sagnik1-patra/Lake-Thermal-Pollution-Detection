@@ -1,0 +1,7 @@
+{
+    "rmse": 1.010889288558893,
+    "r2_score": 0.9128023495753403,
+    "best_filters": 29,
+    "best_kernel": 3,
+    "model": "Hybrid CSA + PSO (PSA)"
+}
